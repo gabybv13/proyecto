@@ -1,0 +1,23 @@
+{
+    "Libro":[
+        {"Year":"2014","Name":"Leche y miel","Lugar":"Andews McMeel"},
+        {"Year":"2014","Name":"Otra manera de utilizar la boca","Lugar":"Andews McMeel"},
+        {"Year":"2014","Name":"Baluarte","Lugar":"Valparaíso"},
+        {"Year":"2016","Name":"La ataraxia del corazón","Lugar":"Valparaíso"},
+        {"Year":"2016","Name":"Con tal de verte volar","Lugar":"Aguilar"},
+        {"Year":"2016","Name":"La soledad de un cuerpo acostumbrado a la herida","Lugar":"Cegal"},
+        {"Year":"2017","Name":"Ahora que ya bailas","Lugar":"Aguilar"},
+        {"Year":"2017","Name":"El sol y sus flores","Lugar":"Seix Barral"},
+        {"Year":"2017","Name":"y yo a tí","Lugar":"Valparaíso"},
+        {"Year":"2018","Name":"Aquella orilla nuestra","Lugar":"Cegal"}
+    ],
+
+    "CRLugar":[
+        {"Name":"Con tal de verte volar"},
+        {"Name":"Ahora que ya bailas"},
+        {"Name":"Cuando sea mayor"},
+        {"Name":"Aquella orilla nuestra"},
+        {"Name":"El sol y sus flores"},
+        {"Name":"Leche y miel"}
+    ]
+}
